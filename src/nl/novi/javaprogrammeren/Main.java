@@ -19,6 +19,7 @@ public class Main {
     Nadat er extra fuel gebruikt is, moet deze natuurlijk ook verminderd worden. Voeg dit toe aan de code.
 
      */
+    // Een testje voor git //
 
     public static void main(String[] args) {
         Rocket genericRocket = new Rocket(100);
